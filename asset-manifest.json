@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/threejsproject/static/css/main.34b33daa.css",
+    "main.js": "/threejsproject/static/js/main.0af33fd9.js",
+    "static/js/787.3674ed6c.chunk.js": "/threejsproject/static/js/787.3674ed6c.chunk.js",
+    "static/media/8081_earthmap10k.jpg": "/threejsproject/static/media/8081_earthmap10k.e1941c60948b6b86b586.jpg",
+    "static/media/8081_earthbump10k.jpg": "/threejsproject/static/media/8081_earthbump10k.9db8a9b1549d6961fdda.jpg",
+    "static/media/earthcloudmap.jpg": "/threejsproject/static/media/earthcloudmap.1de83bb6bd777f6926fa.jpg",
+    "static/media/8081_earthspec10k.jpg": "/threejsproject/static/media/8081_earthspec10k.618b1b4cb79686f85bb3.jpg",
+    "static/media/8k_earth_normal_map.jpg": "/threejsproject/static/media/8k_earth_normal_map.930cf2e99bc548140c29.jpg",
+    "static/media/logo.svg": "/threejsproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/threejsproject/index.html",
+    "main.34b33daa.css.map": "/threejsproject/static/css/main.34b33daa.css.map",
+    "main.0af33fd9.js.map": "/threejsproject/static/js/main.0af33fd9.js.map",
+    "787.3674ed6c.chunk.js.map": "/threejsproject/static/js/787.3674ed6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b33daa.css",
+    "static/js/main.0af33fd9.js"
+  ]
+}
